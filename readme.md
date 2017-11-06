@@ -1,0 +1,1 @@
+#A Voting App made with Node, Express, MySQL, and EJS
